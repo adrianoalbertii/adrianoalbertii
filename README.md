@@ -49,16 +49,23 @@ Soy **Software Engineer** en España 🇪🇸, con una base sólida en **Java** 
 
 ---
 
-## 📊 Estadísticas de GitHub
+## ⚙️ Cómo trabajo
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adrianoalbertii&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoalbertii&layout=compact&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9"/>
-</div>
+- 🧱 **Código limpio y mantenible**, con arquitectura por capas y patrones como DAO
+- 🗄️ **Bases de datos bien modeladas**, con MySQL como herramienta habitual
+- 🔌 **Backend en Java**, con experiencia en sockets, hilos y aplicaciones cliente-servidor
+- 📱 Desarrollo móvil con **Kotlin y Android**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianoalbertii&hide_border=true&background=0d1117&ring=2ea043&fire=2ea043&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
-</div>
+---
+
+## 🌐 Contacto
+
+<a href="https://www.linkedin.com/in/adriano-alberti-navarro-11a812347/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/adrianoalbertii?tab=followers" target="_blank">
+  <img src="https://img.shields.io/github/followers/adrianoalbertii?style=for-the-badge&logo=github&color=238636&labelColor=0d1117"/>
+</a>
 
 ---
 
