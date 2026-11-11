@@ -30,6 +30,7 @@ Soy **Software Engineer** en España 🇪🇸, con una base sólida en **Java** 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -49,12 +50,22 @@ Soy **Software Engineer** en España 🇪🇸, con una base sólida en **Java** 
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg"/>
+  <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+</div>
+
+---
+
 ## ⚙️ Cómo trabajo
 
 - 🧱 **Código limpio y mantenible**, con arquitectura por capas y patrones como DAO
 - 🗄️ **Bases de datos bien modeladas**, con MySQL como herramienta habitual
 - 🔌 **Backend en Java**, con experiencia en sockets, hilos y aplicaciones cliente-servidor
 - 📱 Desarrollo móvil con **Kotlin y Android**
+- 🎨 Conocimientos de **frontend con Angular** para completar el ciclo de una aplicación
 
 ---
 
