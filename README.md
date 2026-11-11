@@ -12,9 +12,11 @@
 <a href="https://www.linkedin.com/in/adriano-alberti-navarro-11a812347/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<!--
 <a href="https://TU-PORTFOLIO.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+-->
 <img src="https://komarev.com/ghpvc/?username=adrianoalbertii&label=Visitas&color=238636&style=for-the-badge"/>
 
 </div>
